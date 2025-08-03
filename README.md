@@ -47,5 +47,3 @@ Ce projet modélise la prime pure d'assurance automobile à l'aide de deux modè
 - Proposition d’estimation rigoureuse du chargement commercial (hors modèle)
 
 ---
-
-*Ton Prénom Nom – [email](mailto:tonadresse@mail.com) – [LinkedIn](https://linkedin.com/in/tonprofil)*
