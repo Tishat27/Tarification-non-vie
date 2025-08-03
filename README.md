@@ -37,7 +37,7 @@ Ce projet modélise la prime pure d'assurance automobile à l'aide de deux modè
 
 ## 📁 Fichier principal
 
-📍 `notebook/tarification_auto_GLMPurePremium.ipynb`
+📍 `Notebook/Tarification non-vie.ipynb`
 
 ---
 
