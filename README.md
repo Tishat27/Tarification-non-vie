@@ -29,9 +29,9 @@ Ce projet modélise la prime pure d'assurance automobile à l'aide de deux modè
 
 ## 📈 Résultats
 
-- Déviance Poisson (fréquence) : 0.32
+- Déviance Poisson (fréquence) : 0.47
 - Déviance Gamma (sévérité) : 1.55
-- Taux de sinistralité estimé : 97.1%
+- Taux de sinistralité estimé : 92.54%
 
 ---
 
